@@ -1,4 +1,4 @@
-# 🩺 Breast Cancer Prediction — Multi-Model ML Approach
+# Breast Cancer Prediction — Multi-Model ML Approach
 
 A machine learning project that predicts whether a breast tumor is **Malignant (M)** or **Benign (B)** using the Wisconsin Breast Cancer dataset. Multiple classification models are compared to find the best performer, which is then fine-tuned via hyperparameter optimization for maximum accuracy.
 
@@ -22,7 +22,7 @@ A machine learning project that predicts whether a breast tumor is **Malignant (
 
 ---
 
-## 🏗️ Project Structure
+## Project Structure
 
 ```
 br_cance/
@@ -36,7 +36,7 @@ br_cance/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -68,7 +68,7 @@ jupyter notebook Breast_Cancer_Prediction_test.ipynb
 
 ---
 
-## 🔬 Methodology
+## Methodology
 
 ### Step-by-Step Pipeline
 
@@ -85,7 +85,7 @@ jupyter notebook Breast_Cancer_Prediction_test.ipynb
 
 ---
 
-## 🤖 Models Compared
+## Models Compared
 
 | # | Model | Description |
 |---|-------|-------------|
@@ -144,13 +144,13 @@ jupyter notebook Breast_Cancer_Prediction_test.ipynb
 
 ---
 
-## 📝 License
+## License
 
 This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/) for the dataset
 - [scikit-learn documentation](https://scikit-learn.org/) for ML algorithms
